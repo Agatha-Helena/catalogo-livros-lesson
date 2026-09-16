@@ -1,5 +1,5 @@
 // No emulador Android, 10.0.2.2 aponta para o localhost da maquina host.
-const BASE_URL = 'http://10.0.2.2:3000';
+const BASE_URL = "http://10.0.2.2:3000";
 
 export async function buscarLivros() {
   // TODO: implementar
